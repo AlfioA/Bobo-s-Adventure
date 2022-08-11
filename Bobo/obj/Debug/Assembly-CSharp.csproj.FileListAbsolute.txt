@@ -1,0 +1,2 @@
+C:\Users\mangi\Desktop\Bobo\Bobo\Bobo\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\mangi\Desktop\Bobo\Bobo\Bobo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
